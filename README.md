@@ -1,0 +1,2 @@
+# gridtrabajo
+propiedad grid
